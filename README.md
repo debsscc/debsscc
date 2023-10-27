@@ -34,7 +34,7 @@
 &nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 &nbsp;
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/GDScript/GDScript-original.svg" title = "GDScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Phyton/Phyton-original.svg" title = "PHYTON"/></code>
 &nbsp;
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACT"/></code>
 
