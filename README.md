@@ -15,8 +15,8 @@
 ## Welcome beautiful stranger!
 <div display="inline-block">
   <p align="left"> 🖥️ I'm currently living in Brazil and I'm passionate about technology!;</p>
-  <p align="left"> 📚 I study Internt Systems at the Faculty of Technology SENACRS;</p>
-  <p align="left"> 🎮 Doing my First Degree in Game Design at the Federal University of Pelotas(UFPEL);</p>
+  <p align="left"> 🎮 Doing my Degree in Game Design at the Federal University of Pelotas(UFPEL);</p>
+  <p align="left"> 📚 I study Analysis and Systems Development at the University of Technology SENACRS;</p>
 </div>
 
 </br>
