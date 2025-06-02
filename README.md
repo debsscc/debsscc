@@ -22,25 +22,7 @@
 </br>
 
 📫 You can talk to me on [Instagram](https://www.instagram.com/debs_scc) and you can get to know my already developed projects, which are available here in the repositories. =)
-
 </br>
-<h1 align="left"> Languages and Tools: </h1>
-
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-&nbsp;
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-&nbsp;
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-&nbsp;
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-&nbsp;
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Phyton/Phyton-original.svg" title = "PHYTON"/></code>
-&nbsp;
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACT"/></code>
-
-
-</br>
-
 ##
 <p align="left">
 <a href="https://github.com/debsscc">
