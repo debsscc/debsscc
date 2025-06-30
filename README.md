@@ -47,6 +47,13 @@
 
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css)
   ![ChakraUI](https://img.shields.io/badge/chakraui-%2320232a.svg?style=for-the-badge&logo=chakraui)
+  ![Zod](https://img.shields.io/badge/zod-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Helmet](https://img.shields.io/badge/helmet-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white)
+  ![bcrypt](https://img.shields.io/badge/bcrypt-%2320232a.svg?style=for-the-badge)
+  ![JWT](https://img.shields.io/badge/jwt-%2320232a.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+  ![CORS](https://img.shields.io/badge/cors-%2320232a.svg?style=for-the-badge)
+  ![dotenv](https://img.shields.io/badge/dotenv-%2320232a.svg?style=for-the-badge)
+
 
 - **Software & Tools**:
 
