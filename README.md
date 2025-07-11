@@ -1,88 +1,91 @@
 </br>
 
-<div display="inline-block">
-  <h1 align="left">Débora Sieburger Carvalho</h1>
+<h1 align="center">Débora Sieburger Carvalho</h1>
+<p align="center">
+  Game Designer · Full-stack Dev · Cybersecurity Enthusiast
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/debs_scc/">
-    <img align="left" width="60px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="vertical-align:top;">
-  </a> 
+    <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
+  </a>
   <a href="https://br.linkedin.com/in/debsscc">
-    <img width="60px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="vertical-align:top;">
+    <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
   </a>
-</div>
-
-</br>
-
-## 🌸 Welcome, beautiful stranger!
-
-<p align="left">
-  - 💻 Living in Brazil and passionate about technology!<br>
-  - 🎮 Game Design student at the Federal University of Pelotas (UFPEL);<br>
-  - 🧠 Also studying System Analysis and Development at UniSenac.
 </p>
 
 ---
 
-## 👩‍💻 Skills
+## 🌸 About Me
 
-###  Programming Languages
-![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python)  
-![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=postgresql)
-![C#](https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=csharp)
-![GDScript](https://img.shields.io/badge/gdscript-%2320232a.svg?style=for-the-badge&logo=godot)
-
-###  Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs)
-![Expo](https://img.shields.io/badge/expo-%2320232a.svg?style=for-the-badge&logo=expo)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css)
-![ChakraUI](https://img.shields.io/badge/chakraui-%2320232a.svg?style=for-the-badge&logo=chakraui)
-![Zod](https://img.shields.io/badge/zod-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-###  Auth & Security
-![JWT](https://img.shields.io/badge/jwt-%2320232a.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-%2320232a.svg?style=for-the-badge)
-![Helmet](https://img.shields.io/badge/helmet-%2320232a.svg?style=for-the-badge&logo=express)
-![CORS](https://img.shields.io/badge/cors-%2320232a.svg?style=for-the-badge)
-![dotenv](https://img.shields.io/badge/dotenv-%2320232a.svg?style=for-the-badge)
-
-###  Tools & Platforms
-![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-%2320232a?style=for-the-badge&logo=github)  
-![Vercel](https://img.shields.io/badge/vercel-%2320232a.svg?style=for-the-badge&logo=vercel)
-![Notion](https://img.shields.io/badge/Notion-%2320232a.svg?style=for-the-badge&logo=notion)
-![VS Code](https://img.shields.io/badge/vscode-%2320232a.svg?style=for-the-badge&logo=visualstudiocode)
-
-###  Game Engines
-![Godot](https://img.shields.io/badge/godot-%2320232a.svg?style=for-the-badge&logo=godot)
-![Unity](https://img.shields.io/badge/unity-%2320232a.svg?style=for-the-badge&logo=unity)
-
-### 🛡️ Cybersecurity
-![Kali Linux](https://img.shields.io/badge/kali%20linux-%2320232a.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-![EnCase](https://img.shields.io/badge/EnCase-%2320232a.svg?style=for-the-badge&logo=windows&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/wireshark-%2320232a.svg?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/metasploit-%2320232a.svg?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/burp%20suite-%2320232a.svg?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/nmap-%2320232a.svg?style=for-the-badge)  
-![Penetration Testing](https://img.shields.io/badge/penetration%20testing-%2320232a.svg?style=for-the-badge)
-![Digital Forensics](https://img.shields.io/badge/digital%20forensics-%2320232a.svg?style=for-the-badge)
-![Vulnerability Assessment](https://img.shields.io/badge/vulnerability%20assessment-%2320232a.svg?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/incident%20response-%2320232a.svg?style=for-the-badge)
+🎓 I’m currently pursuing a degree in Game Design at the Federal University of Pelotas (UFPEL), while also studying Systems Analysis and Development at UniSenac.
+💻 I’m passionate about building tech that merges creativity, security, and real-world impact.
+🎮 Outside of classes, I explore game engines, experiment with modern UI frameworks, and practice in ethical hacking labs.
+📚 A lifelong learner, I’m currently diving deeper into backend security, Python, and network forensics.
 
 ---
 
-## 📫 Get in touch!
+## 🛠️ Tech Stack
 
-Feel free to connect with me on [Instagram](https://www.instagram.com/debs_scc) or check out my projects here on GitHub. 😊
+### 💡 Programming
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=flat&logo=csharp)
 
-</br>
+### 🖼️ Frontend
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwindcss)
+![ChakraUI](https://img.shields.io/badge/chakra%20ui-%2338B2AC.svg?style=flat&logo=chakraui)
 
-<p align="left">
-  <a href="https://github.com/debsscc">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=debsscc&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+### 🧠 Backend & Auth
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql)
+![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=flat&logo=jsonwebtokens)
+![bcrypt](https://img.shields.io/badge/bcrypt-%2300AA88.svg?style=flat)
+
+### 🔒 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/kali%20linux-%23007ACC.svg?style=flat&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/wireshark-%23118bee.svg?style=flat&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/burp%20suite-%23F75C03.svg?style=flat)
+![Metasploit](https://img.shields.io/badge/metasploit-%23004E7C.svg?style=flat)
+![Nmap](https://img.shields.io/badge/nmap-%23006699.svg?style=flat)
+
+### 🎮 Game Engines
+![Godot](https://img.shields.io/badge/godot-%238ED6FB.svg?style=flat&logo=godot-engine)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity)
+
+---
+
+## 💼 Featured Projects
+
+### 🔐 [SecureAuth API](https://github.com/debsscc/secureauth-api)
+> JWT-authenticated API built with Express and TypeScript. Implements RBAC, token expiration, and bcrypt for password hashing.
+
+### 🎮 [Mini Puzzle Game](https://github.com/debsscc/puzzle-game)
+> 2D game developed with Godot Engine. Features dynamic level progression, sound effects, and pixel-art animations.
+
+### 🌐 [Personal Portfolio](https://github.com/debsscc/portfolio)
+> Personal website showcasing skills, projects and contact info. Built with React + Tailwind + Vercel for deployment.
+
+---
+
+## ✨ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debsscc&layout=compact&theme=algolia" />
 </p>
+
+---
+
+## 📫 Contact Me
+
+- 📍 Brazil – open to remote opportunities  
+- 💼 [LinkedIn](https://br.linkedin.com/in/debsscc)  
+- 📸 [Instagram](https://www.instagram.com/debs_scc/)  
+- 💌 Feel free to reach out to collaborate, ask questions, or just say hi!
+
+---
+
+_Thanks for stopping by! 😊_
