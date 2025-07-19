@@ -1,91 +1,94 @@
-</br>
-
-<h1 align="center">Débora Sieburger Carvalho</h1>
-<p align="center">
-  Game Designer · Full-stack Dev · Cybersecurity Enthusiast
+# 💜 Olá, eu sou a Debs!
+<p align="left">
+ Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
+ Tenho focado meus estudos em <strong>Python</strong> e <strong>SQL</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/debs_scc/">
-    <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
-  </a>
-  <a href="https://br.linkedin.com/in/debsscc">
-    <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-  </a>
+## Sobre mim
+
+- 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia SENAC  
+- 🎓 Graduanda em **Design de Jogos** pela UFPEL  
+- 📚 Estudando **Python, Node.js, React** e desenvolvimento back-end  
+
+**Minha motivação:**  
+Crio soluções técnicas que combinam:  
+ Design criativo +  Boas práticas de segurança +  Aplicações reais  
+
+📚 **Foco de estudos atual:**  
+
+| Área        | Tecnologias |
+|-------------|-------------|
+| Segurança   | Forense, Pentest, Cryptography |
+| Backend     | Python, Node.js, APIs, SQL |
+| QA          | Jest, Cypress, Selenium, Testes Unitários |
+| Redes       | Wireshark, Nmap, Packet Tracer |
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debsscc/debsscc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debsscc/debsscc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/debsscc/debsscc/output/pacman-contribution-graph.svg">
+</picture>
+
+## 💻 Tecnologias e Linguagens  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,c,cs,docker,aws)](https://skillicons.dev)
+
+### Quality Assurance
+
+[![My Skills](https://skillicons.dev/icons?i=selenium,jest,postman,cypress)](https://skillicons.dev)
+
+### Ferramentas de Desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode)](https://skillicons.dev)
+
+### Frameworks e Bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,mysql,postgres,tailwind)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+---
+<p align="left">
+  <strong>Stack Principal:</strong><br>
+  • <strong>Python</strong> para Cybersecurity (pentesting, automação) e Testes (Pytest, Selenium)<br>
+  • <strong>SQL</strong> avançado (otimização, modelagem)<br><br>
+
+  <strong>Hands-on Approach:</strong><br>
+  • Teoria → Projetos reais (APIs seguras, ferramentas de análise)<br>
+  • Security-first em toda arquitetura
 </p>
 
 ---
-
-## 🌸 About Me
-
-🎓 I’m currently pursuing a degree in Game Design at the Federal University of Pelotas (UFPEL), while also studying Systems Analysis and Development at UniSenac.
-💻 I’m passionate about building tech that merges creativity, security, and real-world impact.
-🎮 Outside of classes, I explore game engines, experiment with modern UI frameworks, and practice in ethical hacking labs.
-📚 A lifelong learner, I’m currently diving deeper into backend security, Python, and network forensics.
-
----
-
-## 🛠️ Tech Stack
-
-### 💡 Programming
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=flat&logo=javascript)
-![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=flat&logo=csharp)
-
-### 🖼️ Frontend
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwindcss)
-![ChakraUI](https://img.shields.io/badge/chakra%20ui-%2338B2AC.svg?style=flat&logo=chakraui)
-
-### 🧠 Backend & Auth
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql)
-![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=flat&logo=jsonwebtokens)
-![bcrypt](https://img.shields.io/badge/bcrypt-%2300AA88.svg?style=flat)
-
-### 🔒 Cybersecurity
-![Kali Linux](https://img.shields.io/badge/kali%20linux-%23007ACC.svg?style=flat&logo=kalilinux)
-![Wireshark](https://img.shields.io/badge/wireshark-%23118bee.svg?style=flat&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/burp%20suite-%23F75C03.svg?style=flat)
-![Metasploit](https://img.shields.io/badge/metasploit-%23004E7C.svg?style=flat)
-![Nmap](https://img.shields.io/badge/nmap-%23006699.svg?style=flat)
-
-### 🎮 Game Engines
-![Godot](https://img.shields.io/badge/godot-%238ED6FB.svg?style=flat&logo=godot-engine)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity)
-
----
-
-## 💼 Featured Projects
-
-### 🔐 [SecureAuth API](https://github.com/debsscc/secureauth-api)
-> JWT-authenticated API built with Express and TypeScript. Implements RBAC, token expiration, and bcrypt for password hashing.
-
-### 🎮 [Mini Puzzle Game](https://github.com/debsscc/puzzle-game)
-> 2D game developed with Godot Engine. Features dynamic level progression, sound effects, and pixel-art animations.
-
-### 🌐 [Personal Portfolio](https://github.com/debsscc/portfolio)
-> Personal website showcasing skills, projects and contact info. Built with React + Tailwind + Vercel for deployment.
-
----
-
 ## ✨ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debsscc&layout=compact&theme=algolia" />
 </p>
 
----
+## 📫 Vamos nos conectar? 💌✨
 
-## 📫 Contact Me
+<p align="left">
+  <a href="mailto:dbndy3@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://br.linkedin.com/in/debsscc" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/debs_scc/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-- 📍 Brazil – open to remote opportunities  
-- 💼 [LinkedIn](https://br.linkedin.com/in/debsscc)  
-- 📸 [Instagram](https://www.instagram.com/debs_scc/)  
-- 💌 Feel free to reach out to collaborate, ask questions, or just say hi!
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=debsscc.debsscc&left_color=darkviolet&right_color=orchid" width="80" />
+</div>
 
----
+<div align="center">
+  
+  [![Debs SCC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debsscc&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-_Thanks for stopping by! 😊_
+  <img src="https://streak-stats.demolab.com?user=debsscc&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=debsscc&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
