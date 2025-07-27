@@ -10,10 +10,6 @@
 - 🎓 Graduanda em **Design de Jogos** pela UFPEL  
 - 📚 Estudando **Python, Node.js, React** e desenvolvimento back-end  
 
-**Minha motivação:**  
-Crio soluções técnicas que combinam:  
- Design criativo +  Boas práticas de segurança +  Aplicações reais  
-
 📚 **Foco de estudos atual:**  
 
 | Área        | Tecnologias |
@@ -28,7 +24,6 @@ Crio soluções técnicas que combinam:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debsscc/debsscc/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debsscc/debsscc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/debsscc/debsscc/output/pacman-contribution-graph.svg">
 </picture>
 
 ## 💻 Tecnologias e Linguagens  
