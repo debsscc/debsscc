@@ -1,6 +1,3 @@
-![Header](./your-header-image-name.png)
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=39FF14&center=true&vCenter=true&width=800&lines=💻+Oi%2C+eu+sou+a+Debs!;🚀+Dev+em+formação+com+foco+em+Cybersecurity+e+Back-end;🔒+Python+%7C+SQL+%7C+Testes+%7C+Análise+de+Redes;" />
 </h1>
