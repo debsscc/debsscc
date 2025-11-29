@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=39FF14&center=true&vCenter=true&width=800&lines=💻+Oi%2C+eu+sou+a+Debs!;🚀+Dev+em+formação+com+foco+em+Cybersecurity+e+Back-end;🔒+Python+%7C+SQL+%7C+Testes+%7C+Análise+de+Redes;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=39FF14&center=true&vCenter=true&width=800&lines=💻+Oi%2C+eu+sou+a+Debs!;🚀+Dev+em+formação+;" />
 </h1>
 
 ---
@@ -25,7 +25,6 @@
 
 <p align="center" style="color:#39FF14; font-weight: 600;">
  Desenvolvedora em formação, comprometida com soluções funcionais, modernas e com propósito.<br>
- Estudando <strong>Python</strong> e <strong>SQL</strong> para transformar teoria em projetos reais.<br>
  <i>"Security-first"</i> como filosofia de desenvolvimento.
 </p>
 
@@ -35,7 +34,7 @@
 
 - 🎓 Análise e Desenvolviemento de Sistemas - **Universidade SENAC**  
 - 🎮 Design de Jogos - **Universidade Federal de Pelotas**  
-- 📚 Estudando **Python, Node.js, React** e Back-end  
+- 📚 Estudando **Python, Unity, React**
 
 ### Áreas de foco
 
