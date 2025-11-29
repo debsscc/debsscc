@@ -47,22 +47,6 @@
 
 ---
 
-### Tecnologias e Ferramentas  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cs,docker,aws" />
-  <br>
-  <strong style="color:#39FF14;">Quality Assurance:</strong><br>
-  <img src="https://skillicons.dev/icons?i=selenium,jest,postman,cypress" />
-  <br>
-  <strong style="color:#39FF14;">Ferramentas:</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode" />
-  <br>
-  <strong style="color:#39FF14;">Frameworks:</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,mysql,postgres,tailwind" />
-</p>
-
----
 
 ## GitHub Stats ::
 
